@@ -1,4 +1,4 @@
-[![CI • Tests (Maven)](https://github.com/jcheron/e-commerce/actions/workflows/blank.yml/badge.svg)](https://github.com/jcheron/e-commerce/actions/workflows/blank.yml)
+[![CI • Tests (Maven)](https://github.com/jcheron/e-commerce/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/jcheron/e-commerce/actions/workflows/ci-tests.yml)
 
 ### E-commerce api with Spring Boot
 This is a simple e-commerce API built using Spring Boot. It provides basic functionalities for managing products, categories, and orders.
